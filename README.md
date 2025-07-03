@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 10 years of experience in designing, building, and optimizing data solutions.<br><br>👯 Looking to collaborate on data engineering projects<br><br>🌱 Currently learning about Azure and streaming data pipelines
+🔭 11+ years of experience in designing, building, and optimizing data solutions.<br><br>👯 Looking to collaborate on data engineering projects<br><br>🌱 Currently learning about Azure and streaming data pipelines
 
 
 ## 🌐 Socials:
